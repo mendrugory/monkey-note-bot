@@ -5,8 +5,8 @@ You can chat with the monkey about your notes [here][monkeynotebottelegram] (You
 ## Requirements
 * [MongoDB][mongodb]: A MongoDB Instance
 * [Python 3][python]: It has been developed and test it with Python 3.3 and 3.4.
-* [Flask][flask]:
-* [Requests][requests]
+* [Flask][flask]: Awesome web framework.
+* [Requests][requests]: Awesome Python library.
 
 In order to install the python requirements:
 ```shell
