@@ -1,6 +1,6 @@
 # MonkeyNoteBot
 Telegram Chatbot to handle your lists of notes.
-You can chat with the monkey about your notes [here][monkeynotebottelegram].
+You can chat with the monkey about your notes [here][monkeynotebottelegram] (You should have [Telegram][telegram])
 
 ## Requirements
 * [MongoDB][mongodb]: A MongoDB Instance
@@ -27,5 +27,6 @@ This project is prepared to run in [Openshift][openshift].
 [flask]:<http://flask.pocoo.org/>
 [openshift]:<https://www.openshift.com/>
 [monkeynotebottelegram]:<https://telegram.me/MonkeyNoteBot>
+[telegram]:<https://telegram.org/>
 
  
