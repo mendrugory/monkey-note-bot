@@ -1,10 +1,10 @@
 # MonkeyNoteBot
 Telegram Chatbot to handle your lists of notes.
-You can chat with the monkey about your notes [here][monkeynotebottelegram] (You should have [Telegram][telegram])
+You can chat with the monkey about your notes [here][monkeynotebottelegram] (You should have [Telegram][telegram]).
 
 ## Requirements
 * [MongoDB][mongodb]: A MongoDB Instance
-* [Python 3][python]: It has been developed and test it with Python 3.3 and 3.4.
+* [Python 3][python]: It has been developed and tested it with Python 3.3 and 3.4.
 * [Flask][flask]: Awesome web framework.
 * [Requests][requests]: Awesome Python library.
 
